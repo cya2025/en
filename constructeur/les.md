@@ -1,0 +1,4 @@
+- les animaux.
+
+- les plantes.
+
